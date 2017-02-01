@@ -1,4 +1,4 @@
-# Griffin Calme 2017
+# Griffin Calme 2017 Python 3
 # This program looks into a folder for any subfolders. It takes the name of each subfolder and inserts it into the beginning
 # of each file's name within that subfolder, it then pulls the files out of the subfolder and deletes the subfolder.
 # It was written to fix audiobooks that had each chapter as a folder but the files inside the chapter had non-descript naming.
