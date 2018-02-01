@@ -22,7 +22,7 @@ for subfolder in subfolders:
         except:
             print('folder ' + subfolder + ' not found')
     except:
-        print('subfolder + ' not found')
+        print(subfolder + ' not found')
 
 
 print('\nDone!!! ' + path)
